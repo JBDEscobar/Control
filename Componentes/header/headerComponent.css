@@ -1,5 +1,5 @@
 .div1 {
-    background-color: aqua;
+    background-color: rgb(162, 168, 168);
     height: 6rem;
     display: grid;
     grid-template-columns: 1fr auto;
