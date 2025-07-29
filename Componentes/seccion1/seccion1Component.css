@@ -1,0 +1,13 @@
+.seccion-1{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr  ;
+
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    justify-items: center;
+    margin-top: 3rem;
+
+    
+}
