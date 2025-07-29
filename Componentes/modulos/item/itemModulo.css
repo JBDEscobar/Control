@@ -1,6 +1,26 @@
 .item {
     width: 20rem;
     height: 20rem;
-    background-color: red;
+    background-color: rgb(150, 149, 149);
+    border-radius: 5px;
+    text-align: center;
+    display: grid;
+    grid-template-rows: 30px 1fr 1fr ;
+    gap: 5px;
 
+}
+.item-imagem{
+
+    margin: auto;
+    width: 150px;
+    height: 100px;
+}
+.item-titulo{
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.item-ddescriaco{
+    font-size: 15px;
+    font-weight: 400;
 }
