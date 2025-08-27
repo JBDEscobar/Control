@@ -4,6 +4,11 @@
     display: flex;
     justify-content: center;
     gap: 10rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: antiquewhite;
 
 
 
@@ -15,4 +20,9 @@
     height: 5rem;
 
     font-size: 4rem;
+}
+.div-casa:hover{
+    position: relative;
+    transform: scale(1.2);
+    transform:;
 }

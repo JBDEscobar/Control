@@ -1,4 +1,3 @@
-import {database} from "./database/carrito.js"
 
 
 export function item(title, image, description, price) {
@@ -31,7 +30,6 @@ export function item(title, image, description, price) {
   precio.textContent = `Precio: $${price}`;
   precio.className="price"
 
-  item.addEvent
 
 
   contenedor.appendChild(id);

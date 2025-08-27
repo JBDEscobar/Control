@@ -15,9 +15,6 @@ function seccion() {
 
    //navFooter
 
-
-
-
    seccion.appendChild(nav());
 
 
