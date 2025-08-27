@@ -1,0 +1,36 @@
+.header-pap {
+    display: grid;
+    align-items: center;
+    height: 75px;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    border-bottom: 2px solid gray;
+    padding: 0 2rem;
+    background-color: rgb(231, 30, 30);
+
+}
+
+.header-marcoImg{
+
+    border: 1px solid black;
+}
+
+
+
+.header-tex {
+    font-size: 4rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.img {   
+
+    width: 5rem;
+    height: 5rem;
+    
+    object-fit: cover;
+   
+    
+   
+   
+}

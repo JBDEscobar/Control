@@ -1,0 +1,18 @@
+.nav-papa{
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+
+
+
+}
+
+.div-casa{
+
+    width:5rem ;
+    height: 5rem;
+
+    font-size: 4rem;
+}
